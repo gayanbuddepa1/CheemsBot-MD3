@@ -30,7 +30,7 @@ global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to o
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -103,7 +103,7 @@ global.mess = {
     bot: 'This feature is only for bot',
     wait: 'ඉදපන් පොඩ්ඩක්.',
     linkm: 'Where is the link?',
-    error: 'අවුලක්මොකක්හරි!',
+    error: 'error !',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
