@@ -54,12 +54,12 @@ global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Guy Xeon"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
+global.reactmoji = "😌"
 global.ownertag = ['94765790933'] //ur owner tag
 global.ownernummenu = ['94765790933'] //ur owner number in menu and all
 global.watermark = "😒🖤" //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
+global.linkz1 = "https://https://api.whatsapp.com/send?phone=+94765790933"
 global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
 
 //Bot theme media
@@ -101,9 +101,9 @@ global.mess = {
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
-    wait: 'In process...',
+    wait: 'ඉදපන් පොඩ්ඩක්.',
     linkm: 'Where is the link?',
-    error: 'Error!',
+    error: 'අවුලක්මොකක්හරි!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
